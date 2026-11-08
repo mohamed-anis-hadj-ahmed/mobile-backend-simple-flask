@@ -30,7 +30,7 @@ def get_news_categories():
 
 @app.route('/')
 def index():
-	return 'Welcome ENSIA Students from Flask!'
+	return 'Welcome HADJ AHMED Mohamed Anis ENSIA student from Flask!'
 
 if __name__ == "__main__":
 	app.run(port=8080)
